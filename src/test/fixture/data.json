@@ -1,0 +1,72 @@
+[
+  {
+    "id": "76D12D26",
+    "name": "FM-10",
+    "machine_name": "sssb",
+    "history": [
+      {
+        "track": {
+          "id": "826B2557",
+          "name": "8"
+        },
+        "output": {
+          "wear": 6,
+          "id": "5F4B9864"
+        },
+        "up_machine_name": "sssa"
+      },
+      {
+        "track": {
+          "id": "D5D38891",
+          "name": "8"
+        },
+        "output": {
+          "wear": 1,
+          "id": "66CB401A"
+        },
+        "up_machine_name": "sssb"
+      }
+    ],
+    "refurbishments": [
+      {
+        "id": "AE019767",
+        "type": "Double"
+      }
+    ]
+  },
+  {
+    "id": "BFB38570",
+    "name": "FM-10.1",
+    "history": [
+      {
+        "track": {
+          "id": "1189D324",
+          "name": "6"
+        },
+        "output": {
+          "wear": 6,
+          "id": "5F4B9864"
+        },
+        "up_machine_name": "sssb"
+      },
+      {
+        "track": {
+          "id": "623F14BA",
+          "name": "6"
+        },
+        "output": {
+          "wear": 1,
+          "id": "66CB401A"
+        },
+        "extraordinary": true,
+        "up_machine_name": "sssf"
+      }
+    ],
+    "refurbishments": [
+      {
+        "id": "6C28A13B",
+        "refurbishment_event_id": "5809C9FE"
+      }
+    ]
+  }
+]
