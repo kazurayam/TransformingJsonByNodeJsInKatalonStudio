@@ -3,10 +3,13 @@ plugins {
   id "com.katalon.gradle-plugin" version "0.1.2"
 }
 
+version = "0.1.0"
+
 repositories {
   mavenCentral()
 }
 
 dependencies {
+  implementation group: 'com.jayway.jsonpath', name: 'json-path', version: '2.9.0'
   implementation 'com.kazurayam:subprocessj:0.3.7'
 }

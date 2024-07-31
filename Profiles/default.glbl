@@ -9,4 +9,9 @@
       <initValue>'/Users/kazuakiurayama/.nodebrew/current/bin/node'</initValue>
       <name>NODE_BINARY_PATH</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'TS1'</initValue>
+      <name>TestSuiteShortName</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

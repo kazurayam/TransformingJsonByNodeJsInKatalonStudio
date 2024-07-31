@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select_entries_by_machine_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bc7dfa7-7d53-489e-ac27-edf67817e58b</testCaseGuid>
+</TestCaseEntity>
