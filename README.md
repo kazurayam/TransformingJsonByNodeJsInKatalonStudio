@@ -16,12 +16,3 @@ The oritinal poster wrote
 
 Run "Test Suites/TS1"
 
-
-
-## Misc
-
-https://github.com/ColinEberhardt/json-transforms
-
-https://github.com/dfilatov/jspath
-
-https://github.com/kazurayam/subprocessj/
